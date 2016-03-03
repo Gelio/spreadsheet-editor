@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Gelio/spreadsheet-editor#readme",
   "dependencies": {
-    "google-spreadsheet": "^1.1.4"
+    "google-spreadsheet": "^1.1.4",
+    "mongodb": "^2.1.7"
   }
 }
