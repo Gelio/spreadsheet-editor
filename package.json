@@ -1,0 +1,22 @@
+{
+  "name": "spreadsheet-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gelio/spreadsheet-editor.git"
+  },
+  "author": "Grzegorz Rozdzialik <voreny.gelio@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gelio/spreadsheet-editor/issues"
+  },
+  "homepage": "https://github.com/Gelio/spreadsheet-editor#readme",
+  "dependencies": {
+    "google-spreadsheet": "^1.1.4"
+  }
+}
